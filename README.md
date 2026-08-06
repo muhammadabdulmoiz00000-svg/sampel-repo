@@ -1,2 +1,1 @@
-# sampel repo
-chirstmas tree
+# christmas tree
